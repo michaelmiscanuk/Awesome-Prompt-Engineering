@@ -776,6 +776,7 @@ These models established key concepts but are largely superseded for practical u
 - [DALLE Prompt Book](https://dallery.gallery/the-dalle-2-prompt-book) — Visual guide for text-to-image prompting.
 - [Best 100+ Stable Diffusion Prompts](https://mpost.io/best-100-stable-diffusion-prompts-the-most-beautiful-ai-text-to-image-prompts) — Community-curated image generation prompts.
 - [Vibe Engineering (Manning)](https://www.manning.com/books/vibe-engineering) — Book by Tomasz Lelek & Artur Skowronski on building software through natural language prompts.
+- [CheatGrid Prompt Engineering Cheat Sheet](https://www.cheatgrid.com/generative-ai/0084-prompt-engineering-cheat-sheet) - Free reference tables on core prompting approaches, output control, reasoning techniques, prompt chaining and prompting agents.
 
 ---
 
