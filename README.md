@@ -777,6 +777,7 @@ These models established key concepts but are largely superseded for practical u
 - [Best 100+ Stable Diffusion Prompts](https://mpost.io/best-100-stable-diffusion-prompts-the-most-beautiful-ai-text-to-image-prompts) — Community-curated image generation prompts.
 - [Vibe Engineering (Manning)](https://www.manning.com/books/vibe-engineering) — Book by Tomasz Lelek & Artur Skowronski on building software through natural language prompts.
 - [CheatGrid Prompt Engineering Cheat Sheet](https://www.cheatgrid.com/generative-ai/0084-prompt-engineering-cheat-sheet) - Free reference tables on core prompting approaches, output control, reasoning techniques, prompt chaining and prompting agents.
+- [CheatGrid: Writing a Prompt for an App Feature](https://www.cheatgrid.com/checklists/ai-engineer/writing-a-prompt-for-an-app-feature) - Free checklist for the prompt behind one app feature: real inputs and a pass bar first, then scope, format, examples, test runs and versioning, with how to verify each check.
 
 ---
 
